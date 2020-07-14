@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### Rutuja Dhokchaule
+#Rutuja Dhokchaule
 <!--
 **Rutu2k/Rutu2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
