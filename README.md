@@ -1,5 +1,8 @@
-### Hi there 👋
+
 # Rutuja Dhokchaule
+## Web Developer and Artist
+- 🌱 I’m currently learning Full Stack Development
+- ⚡ Fun fact: Namaskaar Mitra!
 <!--
 **Rutu2k/Rutu2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
