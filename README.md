@@ -3,7 +3,7 @@
 ## Web Developer and Artist
 - 🙏 Namaskaar Mitra!
 - 😎 I’m currently learning Full Stack Development
-- 📫 Instagram @riupxh / Twitter @Rutu_15
+- 📫 :instagram: @riupxh / Twitter @Rutu_15
 <!--
 **Rutu2k/Rutu2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
