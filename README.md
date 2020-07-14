@@ -1,5 +1,6 @@
 
-![This is RUTU](http://url/to/img.png) # Rutuja Dhokchaule
+# Rutuja Dhokchaule
+![This is RUTU](https://github.com/Rutu2k/Rutu2k/blob/master/rutu.jpeg) 
 ## Web Developer and Artist
 - 🙏 Namaskaar Mitra!
 - 😎 I’m currently learning Full Stack Development
