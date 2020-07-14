@@ -1,6 +1,7 @@
 
 # Rutuja Dhokchaule
-![This is RUTU](https://github.com/Rutu2k/Rutu2k/blob/master/rutu.jpeg) 
+<!--![This is RUTU](https://github.com/Rutu2k/Rutu2k/blob/master/rutu.jpeg) -->
+<img src="https://github.com/Rutu2k/Rutu2k/blob/master/rutu.jpeg" width="400" height="790">
 ## Web Developer and Artist
 - 🙏 Namaskaar Mitra!
 - 😎 I’m currently learning Full Stack Development
