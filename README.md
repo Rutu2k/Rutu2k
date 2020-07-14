@@ -1,8 +1,12 @@
- <div align="center">
-  <h1><strong>Rutuja Dhokchaule</strong></h1>
-  <h2>Web Developer and Artist</h2>
-  <img src="https://github.com/Rutu2k/Rutu2k/blob/master/rutu.jpeg" width="300" height="350">
-</div>
+ <div>
+  <div align="left">
+   <img src="https://github.com/Rutu2k/Rutu2k/blob/master/rutu.jpeg" width="300" height="350">
+  </div>
+  <div align="right">
+    <h1><strong>Rutuja Dhokchaule</strong></h1>
+    <h2>Web Developer and Artist</h2>
+  </div>
+ </div>
 - 🙏 Namaskaar Mitra!
 - 😎 I’m currently learning Full Stack Development
 - 📫 Instagram: @riupxh / Twitter: @Rutu_15
