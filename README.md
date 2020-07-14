@@ -1,5 +1,5 @@
 
-# Rutuja Dhokchaule
+![This is RUTU](http://url/to/img.png) # Rutuja Dhokchaule
 ## Web Developer and Artist
 - 🙏 Namaskaar Mitra!
 - 😎 I’m currently learning Full Stack Development
