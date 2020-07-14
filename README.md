@@ -1,8 +1,9 @@
 
 # **Rutuja Dhokchaule**
 ## Web Developer and Artist
-<img src="https://github.com/Rutu2k/Rutu2k/blob/master/rutu.jpeg" width="300" height="350">
-
+<div style="text-align:center>
+  <img src="https://github.com/Rutu2k/Rutu2k/blob/master/rutu.jpeg" width="300" height="350">
+ </div>
 - 🙏 Namaskaar Mitra!
 - 😎 I’m currently learning Full Stack Development
 - 📫 Instagram: @riupxh / Twitter: @Rutu_15
